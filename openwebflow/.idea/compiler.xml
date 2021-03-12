@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="openwebflow-core" />
+        <module name="openwebflow-mgr-hibernate" />
+        <module name="openwebflow-mgr-mybatis" />
+        <module name="openwebflow-test" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="openwebflow" target="1.8" />
+      <module name="openwebflow-core" target="1.8" />
+      <module name="openwebflow-mgr-hibernate" target="1.8" />
+      <module name="openwebflow-mgr-mybatis" target="1.8" />
+      <module name="openwebflow-test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

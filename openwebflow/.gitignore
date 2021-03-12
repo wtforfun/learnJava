@@ -1,0 +1,7 @@
+*/bin/
+*.class
+*/.settings/
+*.docx
+*.pptx
+!/target/lib/
+*/target/classes/

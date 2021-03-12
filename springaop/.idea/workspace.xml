@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0c94b46-fd5b-4ef8-9dab-4853216ef623" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideInfoMessages" value="true" />
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+    <option name="HIDE_INFO_MESSAGES" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\repo" />
+        <option name="mavenHome" value="D:/programs/maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\programs\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nYAoa7XeZlQdiYmRTpSmshnRME" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Class structureJava</id>
+          </State>
+          <State>
+            <id>Code maturity issuesJava</id>
+          </State>
+          <State>
+            <id>Google Web Toolkit issues</id>
+          </State>
+          <State>
+            <id>JUnit issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 5Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 7Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 8Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Javadoc issuesJava</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring AOPSpring</id>
+          </State>
+          <State>
+            <id>TestNGJava</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../myspring" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\springaop\src\main\java\org\learn" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.StringTest.test1">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.learn.App" />
+      <module name="springaop" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.learn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.testUnicode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springaop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.learn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.learn" />
+      <option name="MAIN_CLASS_NAME" value="org.learn.AppTest" />
+      <option name="METHOD_NAME" value="testUnicode" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springaop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.learn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.learn" />
+      <option name="MAIN_CLASS_NAME" value="org.learn.StringTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StringTest.test1" />
+        <item itemvalue="JUnit.AppTest.testUnicode" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0c94b46-fd5b-4ef8-9dab-4853216ef623" name="Default" comment="" />
+      <created>1594369434611</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594369434611</updated>
+      <workItem from="1594369437877" duration="4992000" />
+      <workItem from="1611556829852" duration="2206000" />
+      <workItem from="1611631817346" duration="39000" />
+      <workItem from="1614833744771" duration="9395000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="203" y="120" key="FileChooserDialogImpl" timestamp="1615006354778">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="203" y="120" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1615006354778" />
+    <state width="1398" height="189" key="GridCell.Tab.0.bottom" timestamp="1615006356216">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="189" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1615006356216" />
+    <state width="1398" height="189" key="GridCell.Tab.0.center" timestamp="1615006356216">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="189" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1615006356216" />
+    <state width="1398" height="189" key="GridCell.Tab.0.left" timestamp="1615006356216">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="189" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1615006356216" />
+    <state width="1398" height="189" key="GridCell.Tab.0.right" timestamp="1615006356216">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="189" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1615006356216" />
+    <state x="222" y="11" key="SettingsEditor" timestamp="1615006286374">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="222" y="11" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1615006286374" />
+    <state x="383" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1614835461986">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="383" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1440.860@0.0.1440.860" timestamp="1614835461986" />
+  </component>
+</project>

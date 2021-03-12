@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd
+       http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop.xsd
+       http://www.springframework.org/schema/context
+       http://www.springframework.org/schema/context/spring-context-3.2.xsd"
+
+>
+    <!-- 启用注解 -->
+    <context:annotation-config/>
+    <!-- 包扫描路径 -->
+    <context:component-scan base-package="org.learn"/>
+
+    <!-- spring aop -->
+    <bean id="aopWorker" class="org.learn.AopWorker" />
+    <bean id="springWorkerAop" class="org.learn.SpringWorkerAop" />
+    <!--<aop:config>-->
+        <!--&lt;!&ndash; 定义切点 &ndash;&gt;-->
+        <!--<aop:pointcut id="pointcut" expression="execution(public * * (..))"></aop:pointcut>-->
+        <!--&lt;!&ndash; 定义切面 &ndash;&gt;-->
+        <!--<aop:advisor id="aopAdvisor" advice-ref="springWorkerAop" pointcut-ref="pointcut"/>-->
+    <!--</aop:config>-->
+
+
+    <!-- 启动@aspectj的自动代理支持-->
+    <aop:aspectj-autoproxy />
+
+    <!-- 定义aspect类 -->
+    <!--<bean name="myAspect" class="org.learn.MyAspect"/>-->
+</beans>

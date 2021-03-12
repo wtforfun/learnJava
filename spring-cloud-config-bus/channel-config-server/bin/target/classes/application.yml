@@ -1,0 +1,22 @@
+server:
+  port: 8001
+spring:
+  application:
+    name: channel-config-server
+  cloud:
+    config:
+      server:
+        git: 
+          uri: http://chenzhi@192.168.10.230/etoc/zhuanshou/config-repo.git                       # 配置git仓库的地址
+#          uri: file:///D:/Documents/STSWorkSpaces/zschannel/config-repo
+          search-paths: channel-activiti-server,system-manager,channel-shiro-server,business-manager,supplier-manager,customer-manager,order-manager,statistics-manager     # git仓库地址下的相对地址，可以配置多个，用,分割。
+          username: chenzhi@etoc.cn                                                               # git仓库的账号
+          password: 123456qQ                                                                      # git仓库的密码
+          
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://192.168.10.10:9000/eureka/                                                  # 注册中心eurka地址
+  instance:
+    prefer-ip-address: true                                                                       # 使用ip地址而不是域名
+  

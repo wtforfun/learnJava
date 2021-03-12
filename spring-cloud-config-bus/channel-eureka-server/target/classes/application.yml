@@ -1,0 +1,12 @@
+server: 
+  port: 9000
+spring: 
+  application: 
+    name: channel-eureka-server
+
+eureka: 
+  client: 
+    register-with-eureka: false                  #false表示不向注册中心注册自己。
+    fetch-registry: false                        #false表示自己端就是注册中心，我的职责就是维护服务实例，并不需要去检索服务
+    service-url: 
+      defaultZone: http://127.0.0.1:9000/eureka/ #此处为单节点的注册中心配置,多节点的应指向其他eureka server地址,逗号分隔,且前面2个配置均为true

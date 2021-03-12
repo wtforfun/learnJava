@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/openwebflow.iml" filepath="$PROJECT_DIR$/openwebflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openwebflow-core/openwebflow-core.iml" filepath="$PROJECT_DIR$/openwebflow-core/openwebflow-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openwebflow-mgr-hibernate/openwebflow-mgr-hibernate.iml" filepath="$PROJECT_DIR$/openwebflow-mgr-hibernate/openwebflow-mgr-hibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openwebflow-mgr-mybatis/openwebflow-mgr-mybatis.iml" filepath="$PROJECT_DIR$/openwebflow-mgr-mybatis/openwebflow-mgr-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openwebflow-test/openwebflow-test.iml" filepath="$PROJECT_DIR$/openwebflow-test/openwebflow-test.iml" />
+    </modules>
+  </component>
+</project>
