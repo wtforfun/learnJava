@@ -1,3 +1,4 @@
 this is the first msg;
 this is the second msg;
 this is the third msg told me sth;
+Git has a mutable index called stage.
