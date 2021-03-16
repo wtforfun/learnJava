@@ -5,3 +5,4 @@ Git has a mutable index called stage.
 add sth to remote repo
 add sth again
 add dev branch to master
+fix a bug here
